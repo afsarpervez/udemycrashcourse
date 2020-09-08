@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -63,3 +64,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # udemycourse01
 >>>>>>> 29e843ec265690fcf75338b09a8a4e9cece5e1a6
+=======
+# udemycrashcourse
+udemycrashcourse
+>>>>>>> 09743b4d3dd6f807db00d86a92494dc0164bc365
